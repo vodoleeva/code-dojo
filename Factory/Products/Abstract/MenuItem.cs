@@ -1,4 +1,4 @@
-namespace Factory.Entities;
+namespace Factory.Products.Abstract;
 
 /// <summary>
 /// The Product abstract class

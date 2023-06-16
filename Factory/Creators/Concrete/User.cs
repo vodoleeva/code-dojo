@@ -1,7 +1,7 @@
-using Factory.Entities.Creators.Abstract;
-using Factory.Entities.MenuItems;
+using Factory.Creators.Abstract;
+using Factory.Products.Concrete;
 
-namespace Factory.Entities.Creators.Concrete;
+namespace Factory.Creators.Concrete;
 
 /// <summary>
 /// A 'ConcreteCreator' class

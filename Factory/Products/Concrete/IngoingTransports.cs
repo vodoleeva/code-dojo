@@ -1,4 +1,6 @@
-namespace Factory.Entities.MenuItems;
+using Factory.Products.Abstract;
+
+namespace Factory.Products.Concrete;
 
     
 /// <summary>

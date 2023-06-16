@@ -1,5 +1,5 @@
-﻿using Factory.Entities.Creators.Abstract;
-using Factory.Entities.Creators.Concrete;
+﻿using Factory.Creators.Abstract;
+using Factory.Creators.Concrete;
 
 namespace Factory
 {
